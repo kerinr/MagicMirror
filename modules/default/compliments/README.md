@@ -65,23 +65,23 @@ The `compliments` property contains an object with three arrays: <code>morning</
 
 #### Default value:
 ````javascript
-config: {
-	compliments: {
-		morning: [
-			'Good morning, handsome!',
-			'Enjoy your day!',
-			'How was your sleep?'
-		],
-		afternoon: [
-			'Hello, beauty!',
-			'You look sexy!',
-			'Looking good today!'
-		],
-		evening: [
-			'Wow, you look hot!',
-			'You look nice!',
-			'Hi, sexy!'
-		]
-	}
+defaults: {
+		compliments: {
+			morning: [
+				"Good morning, handsome!",
+				"Enjoy your day!",
+				"Carpe Diem!"
+			],
+			afternoon: [
+				"What are you doing home?",
+				"Shouldn't you be working?",
+				"Be productive!"
+			],
+			evening: [
+				"Time for bed?",
+				"You look tired",
+				"Good night!"
+			]
+		},
 }
 ````
