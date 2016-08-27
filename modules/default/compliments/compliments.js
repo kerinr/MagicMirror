@@ -15,17 +15,17 @@ Module.register("compliments",{
 			morning: [
 				"Good morning, handsome!",
 				"Enjoy your day!",
-				"How was your sleep?"
+				"Carpe Diem!"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"What are you doing home?",
+				"Shouldn't you be working?",
+				"Be productive!"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Time for bed?",
+				"You look tired",
+				"Good night!"
 			]
 		},
 		updateInterval: 30000,
